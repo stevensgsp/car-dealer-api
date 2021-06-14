@@ -31,3 +31,11 @@ Run migrations and seeders
 php artisan migrate
 php artisan db:seed
 ```
+
+### Serve for development
+
+Important: serve on 8001 port for the front-end integration to work.
+
+```bash
+php artisan serve --port=8001
+```
