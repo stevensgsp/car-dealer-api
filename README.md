@@ -1,5 +1,4 @@
-
-# Test
+# CAR DEALER API
 
 _Laravel project._
 
@@ -16,7 +15,7 @@ This is a Laravel 6.x project, so you must meet its requirements.
 Clone the project
 
 ```bash
-git clone https://gitlab.com/stevensgsp/car-dealer-api.git
+git clone https://github.com/stevensgsp/car-dealer-api.git
 cd car-dealer-api
 composer install
 cp .env.example .env
